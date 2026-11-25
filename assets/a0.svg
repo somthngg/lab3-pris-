@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title">
+<title id="title">A0. Функции системы записи на защиту</title>
+<rect width="1600" height="1100" fill="white"/>
+<g font-family="Arial, sans-serif" fill="black" stroke="black">
+<rect x="240" y="250" width="280" height="110" fill="white" stroke-width="1.5"/>
+<text x="380.0" y="298.0" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">Открыть и закрыть</text>
+<text x="380.0" y="324.4" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">приём</text>
+<text x="508" y="348.0" font-size="19" text-anchor="end" font-weight="normal" stroke="none">1</text>
+<rect x="640" y="440" width="280" height="110" fill="white" stroke-width="1.5"/>
+<text x="780.0" y="488.0" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">Управлять записью</text>
+<text x="780.0" y="514.4" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">на защиту</text>
+<text x="908" y="538.0" font-size="19" text-anchor="end" font-weight="normal" stroke="none">2</text>
+<rect x="1200" y="250" width="280" height="110" fill="white" stroke-width="1.5"/>
+<text x="1340.0" y="298.0" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">Уведомить</text>
+<text x="1340.0" y="324.4" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">участников</text>
+<text x="1468" y="348.0" font-size="19" text-anchor="end" font-weight="normal" stroke="none">3</text>
+<rect x="1200" y="760" width="280" height="110" fill="white" stroke-width="1.5"/>
+<text x="1340.0" y="808.0" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">Зафиксировать</text>
+<text x="1340.0" y="834.4" font-size="22" text-anchor="middle" font-weight="normal" stroke="none">результат защиты</text>
+<text x="1468" y="858.0" font-size="19" text-anchor="end" font-weight="normal" stroke="none">4</text>
+<text x="280" y="140.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">C1  Права ролей</text>
+<text x="280" y="161.6" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">и групп</text>
+<polyline points="290,190 290,250" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="290,250 285.0,238.0 295.0,238.0" stroke="none"/>
+<text x="490" y="140.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">C2  Правила</text>
+<text x="490" y="161.6" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">слотов</text>
+<polyline points="420,190 420,250" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="420,250 415.0,238.0 425.0,238.0" stroke="none"/>
+<text x="1300" y="140.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">C4  Правила</text>
+<text x="1300" y="161.6" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">уведомлений</text>
+<polyline points="1360,190 1360,250" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1360,250 1355.0,238.0 1365.0,238.0" stroke="none"/>
+<text x="1500" y="140.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">C3  Правила</text>
+<text x="1500" y="161.6" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">результата</text>
+<polyline points="1540,190 1540,730 1410,730 1410,760" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1410,760 1405.0,748.0 1415.0,748.0" stroke="none"/>
+<polyline points="290,205 680,205 680,440" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="680,440 675.0,428.0 685.0,428.0" stroke="none"/>
+<circle cx="290" cy="205" r="3"/>
+<polyline points="680,225 590,225 590,705 1270,705 1270,760" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1270,760 1265.0,748.0 1275.0,748.0" stroke="none"/>
+<circle cx="680" cy="225" r="3"/>
+<polyline points="420,190 780,190 780,440" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="780,440 775.0,428.0 785.0,428.0" stroke="none"/>
+<circle cx="420" cy="190" r="3"/>
+<polyline points="60,300 240,300" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="240,300 228.0,305.0 228.0,295.0" stroke="none"/>
+<text x="60" y="262.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">I1  Параметры</text>
+<text x="60" y="284.8" font-size="19" text-anchor="start" font-weight="normal" stroke="none">приёма</text>
+<polyline points="60,475 640,475" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="640,475 628.0,480.0 628.0,470.0" stroke="none"/>
+<text x="60" y="462.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">I2  Запрос студента</text>
+<polyline points="60,820 1200,820" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1200,820 1188.0,825.0 1188.0,815.0" stroke="none"/>
+<text x="60" y="782.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">I3  Решение</text>
+<text x="60" y="804.8" font-size="19" text-anchor="start" font-weight="normal" stroke="none">преподавателя</text>
+<polyline points="920,460 1560,460" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1560,460 1548.0,465.0 1548.0,455.0" stroke="none"/>
+<text x="1200" y="445.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">O1  Состояние записи</text>
+<polyline points="1480,285 1560,285" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1560,285 1548.0,290.0 1548.0,280.0" stroke="none"/>
+<text x="1495" y="271.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">O2</text>
+<polyline points="1480,810 1560,810" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1560,810 1548.0,815.0 1548.0,805.0" stroke="none"/>
+<text x="1558" y="796.0" font-size="19" text-anchor="end" font-weight="normal" stroke="none">O3</text>
+<polyline points="520,320 570,320 570,515 640,515" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="640,515 628.0,520.0 628.0,510.0" stroke="none"/>
+<text x="535" y="390.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">D1</text>
+<polyline points="520,280 1200,280" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1200,280 1188.0,285.0 1188.0,275.0" stroke="none"/>
+<text x="985" y="264.0" font-size="20" text-anchor="middle" font-weight="normal" stroke="none">D2  Событие приёма и аудитория</text>
+<polyline points="920,490 1010,490 1010,335 1200,335" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1200,335 1188.0,340.0 1188.0,330.0" stroke="none"/>
+<rect x="1041.74755859375" y="290" width="136.50488281250003" height="46.199999999999996" fill="white" stroke="none"/>
+<text x="1110" y="310.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">D3  Записи для</text>
+<text x="1110" y="331.6" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">напоминания</text>
+<polyline points="920,530 980,530 980,790 1200,790" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1200,790 1188.0,795.0 1188.0,785.0" stroke="none"/>
+<text x="1000" y="735.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">D4  Запись</text>
+<text x="1000" y="757.8" font-size="19" text-anchor="start" font-weight="normal" stroke="none">на защиту</text>
+<polyline points="1510,810 1510,660 950,660 950,400 860,400 860,440" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="860,440 855.0,428.0 865.0,428.0" stroke="none"/>
+<circle cx="1510" cy="810" r="3"/>
+<text x="1300" y="615.0" font-size="19" text-anchor="start" font-weight="normal" stroke="none">D5  Состояние</text>
+<text x="1300" y="637.8" font-size="19" text-anchor="start" font-weight="normal" stroke="none">результата</text>
+<polyline points="300,990 300,360" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="300,360 305.0,372.0 295.0,372.0" stroke="none"/>
+<polyline points="300,950 1260,950 1260,870" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1260,870 1265.0,882.0 1255.0,882.0" stroke="none"/>
+<circle cx="300" cy="950" r="3"/>
+<polyline points="700,990 700,550" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="700,550 705.0,562.0 695.0,562.0" stroke="none"/>
+<polyline points="820,990 820,550" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="820,550 825.0,562.0 815.0,562.0" stroke="none"/>
+<polyline points="820,970 450,970 450,360" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="450,360 455.0,372.0 445.0,372.0" stroke="none"/>
+<circle cx="820" cy="970" r="3"/>
+<polyline points="820,970 1330,970 1330,870" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1330,870 1335.0,882.0 1325.0,882.0" stroke="none"/>
+<polyline points="1140,970 1140,410 1290,410 1290,360" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1290,360 1295.0,372.0 1285.0,372.0" stroke="none"/>
+<circle cx="1140" cy="970" r="3"/>
+<polyline points="990,990 990,580 880,580 880,550" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="880,550 885.0,562.0 875.0,562.0" stroke="none"/>
+<polyline points="990,980 500,980 500,360" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="500,360 505.0,372.0 495.0,372.0" stroke="none"/>
+<circle cx="990" cy="980" r="3"/>
+<polyline points="990,980 1170,980 1170,425 1420,425 1420,360" fill="none" stroke-width="1.7" stroke-linejoin="round"/>
+<polygon points="1420,360 1425.0,372.0 1415.0,372.0" stroke="none"/>
+<text x="300" y="1017.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">M2  Преподаватель</text>
+<text x="700" y="1017.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">M1  Студент</text>
+<text x="855" y="1017.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">M3  Сайт и БД</text>
+<text x="1100" y="1017.0" font-size="18" text-anchor="middle" font-weight="normal" stroke="none">M4  Сервисы вуза</text>
+</g>
+</svg>
